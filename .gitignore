@@ -1,0 +1,20 @@
+# Compiled python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# IDE settings
+.idea/
+*.iml
+
+# Package distribution files
+dist/
+build/
+*.egg-info/
+*.eggs/
